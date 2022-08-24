@@ -1,0 +1,22 @@
+{
+  "name": "tarjeta-de-presentacion",
+  "version": "1.0.0",
+  "description": "Tarjeta de presentacion de Lucas Medina",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LMedina96/Tarjeta-de-presentacion.git"
+  },
+  "author": "Lucas Medina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LMedina96/Tarjeta-de-presentacion/issues"
+  },
+  "homepage": "https://github.com/LMedina96/Tarjeta-de-presentacion#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.0"
+  }
+}
