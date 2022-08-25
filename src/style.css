@@ -30,7 +30,8 @@ body{
     align-items: center;
     justify-content: space-between;
     flex-direction: row;
-    box-shadow: 25px 35px 15px -3px rgba(0,0,0,0.1);
+    box-shadow: 30px 30px 8px 0px rgba(0,0,0,0.1);
+    
 }
 
 .information{
@@ -51,9 +52,22 @@ body{
     font-weight: 700;
 }
 
+.technologysList{
+    font-size: 18px;
+}
+
 .card-body ul{
     list-style:none;
     padding: 0;
+}
+
+.img p{
+    text-align: end;
+    margin: 0;
+}
+
+.img a{
+    text-decoration: none;
 }
 
 @media (max-width: 1024px) {
